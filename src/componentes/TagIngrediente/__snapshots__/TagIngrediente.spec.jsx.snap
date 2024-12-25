@@ -1,0 +1,17 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`should have the 'ativo' class when the 'ativo' prop is true 1`] = `
+<button
+  class="sc-bczSft kUJMIt"
+>
+  Tomate
+</button>
+`;
+
+exports[`should not have the 'ativo' class when the 'ativo' prop is false 1`] = `
+<button
+  class="sc-bczSft eYMIVd"
+>
+  Tomate
+</button>
+`;
